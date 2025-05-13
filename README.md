@@ -1,6 +1,10 @@
-# DronaHQ Figma Design System 
+# DronaHQ Design System on Figma
 
-Official Figma design system used by the DronaHQ product and community. Now available for everyone
+Looking for a robust, reusable design system for building seamless internal apps? Introducing the DronaHQ Design System—a comprehensive UI toolkit built to streamline the creation of low-code admin panels and operational apps.
+With this system, you can:
+1. Build sleek, responsive UIs for enterprise-grade internal tools.
+2. Save time on UI development with customizable components.
+3. Ensure consistency across your applications with well-documented design patterns.
 
 ![Screenshot 2025-05-13 at 4 41 32 PM](https://github.com/user-attachments/assets/516a6aee-32d9-4af1-b816-b26142cc71a3)
 
@@ -23,14 +27,9 @@ You can use the latest `.fig` file from the link (https://www.figma.com/communit
 2. Design the real components and Export .
 3. Upload the final exported file on `DronaHQ.ai`.
 
-## Contributing
-
 ![Screenshot 2025-05-13 at 4 52 37 PM](https://github.com/user-attachments/assets/0c23a413-27ba-44c6-b921-90b82f8edcfc)
 
 ![Screenshot 2025-05-13 at 4 42 50 PM](https://github.com/user-attachments/assets/de03c2e2-2788-49c7-a291-08297526e718)
-
-We welcome you
-DronaHQ documentation [contributing guide]([./docs/contributing.md](https://docs.dronahq.com/building-with-ai/) to get started.
 
 ## Important Links
 1. DronaHQ Figma Design Kit - (https://www.figma.com/community/file/1493571947316588027)
